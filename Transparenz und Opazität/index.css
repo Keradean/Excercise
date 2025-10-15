@@ -1,0 +1,12 @@
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: rgb(0, 0, 255);
+  opacity: 1; /*0-1 0=unsichtbar 1=sichtbar*/
+}
+
+h1{
+  color: rgba(255, 0, 0, .5);
+}
+
+/*alpha ist wie viel Licht geht durch mein Object durch und Opacity besagt wie durchsichtig ist mein Object*/

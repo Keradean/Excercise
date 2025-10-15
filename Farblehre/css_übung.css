@@ -1,0 +1,16 @@
+.rgb{
+    color: rgb(255, 0, 0);/*0-255*/
+}
+
+.rgba{
+    color: rgba(10, 190, 145, 0.5);
+    /*0-255, alpha= 0-1* das ist die transparenz*/
+}
+
+.hex{
+    color: #FF0000; /*#RRGGBB 00-FF || 16ner Zahlensystem|erstes F sind 15 * 16 sind 240 +15 (das zweite F) sind zusammen 255|*/
+}
+
+.hexa{
+    color: #00ff00FF; /*#RRGGBBAA 00-FF || 16ner Zahlensystem|erstes F sind 15 * 16 sind 240 +15 (das zweite F) sind zusammen 255| AA ist die transparenz von 00-FF*/
+}
