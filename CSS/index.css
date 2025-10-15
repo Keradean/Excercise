@@ -1,3 +1,14 @@
 h1{
     color: red;
 }
+/* Ich kann das separat machen oder in einem schreiben mit einem komma z.B: #pOne, #pTwo */
+#pOne{
+    color: blue;
+    font-size: 20px;
+}
+#pTwo{
+    color: rgb(4, 241, 56);
+}
+/* ID hat immer eine höchere Wichtigkeit als die Class
+ID´s sind mehr für Javascript und Classen mehr für CSS
+!important hebt die cascade auf...nicht verwenden!  */
